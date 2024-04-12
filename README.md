@@ -13,7 +13,7 @@
 
 
  ## 🔗 Link do deploy
-- Veja o projeto no ar no Github Pages [Neste Link](https://angelabressan.github.io/Fokus/)
+- Veja o projeto no ar [Neste Link](https://pomodoro-fokus-timer.vercel.app/)
 
 
 
