@@ -20,6 +20,8 @@
  ## 💻 Demonstração
 
 
+https://github.com/angelabressan/Fokus/assets/120230720/65e91b18-2c25-4b24-b880-51e928d8e61e
+
 
 
  ## 🚀 Tecnologias Utilizadas
