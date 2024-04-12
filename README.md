@@ -6,7 +6,7 @@
 
 
 
-  ## 🚀 Layout do Figma
+## 🚀 Layout do Figma
 - Veja aqui o layout do desafio [Neste Link](https://www.figma.com/file/dEaMv34Wd5G7TBMPo8fPlK/Projeto-Fokus?type=design&node-id=78-324&mode=design&t=aiPSA3H7KKbnrAKi-0/)
 
 
