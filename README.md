@@ -4,8 +4,12 @@
 - Projeto desenvolvido usando HTML5, CSS3 & JavaScript - Timer Método Pomodoro - T6 do programa ONE.
 
 
+
+
   ## 🚀 Layout do Figma
 - Veja aqui o layout do desafio [Neste Link](https://www.figma.com/file/dEaMv34Wd5G7TBMPo8fPlK/Projeto-Fokus?type=design&node-id=78-324&mode=design&t=aiPSA3H7KKbnrAKi-0/)
+
+
 
 
  ## 🔗 Link do deploy
